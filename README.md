@@ -61,7 +61,8 @@ Email alert is sent to all recipients
 | Software                     | Purpose                                                 |
 | ---------------------------- | ------------------------------------------------------- |
 | Python 3.13                  | Runs the File Integrity Monitor.                        |
-| Notepad (or any text editor) | Used to edit the Python scripts.                        |
+| Notepad (or any text editor) | Used to edit the Python scripts or AI online tool
+.                        |
 | Windows Task Scheduler       | Automatically starts the monitor when the user logs on. |
 
 ---
