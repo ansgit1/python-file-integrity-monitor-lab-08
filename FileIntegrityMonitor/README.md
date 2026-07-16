@@ -1,10 +1,9 @@
-# File Integrity Monitor (FIM)
-
-## About This Project
+# ## About This Project
 
 This project demonstrates a practical implementation of file integrity monitoring using Python. It monitors a file in real time, detects unauthorized changes using SHA-256 hashing, records security events in a log file, and sends email alerts to one or more recipients.
 
-I created this project as part of my cybersecurity portfolio to demonstrate practical skills in Python automation, file integrity monitoring, logging, and email notification.
+I created this project as part of my cybersecurity portfolio to demonstrate practical knowledge of file integrity monitoring, security automation, event logging, and email alerting using Python.
+
 
 ---
 
@@ -62,7 +61,8 @@ Email alert is sent to all recipients
 | Software                     | Purpose                                                 |
 | ---------------------------- | ------------------------------------------------------- |
 | Python 3.13                  | Runs the File Integrity Monitor.                        |
-| Notepad (or any text editor) | Used to edit the Python scripts.                        |
+| Notepad (or any text editor) | Used to edit the Python scripts or AI online tool
+.                        |
 | Windows Task Scheduler       | Automatically starts the monitor when the user logs on. |
 
 ---
